@@ -1,13 +1,12 @@
-=== GITHUB REPOSITORY SETUP ===
+=== DAY 1: TEMPERATURE CONVERTER CLI ===
 Date: November 15, 2025
-Time: 11:42 AM (+06, BD)
-Username: lawrencealangomes
-Repository: https://github.com/lawrencealangomes/python-learning
-Visibility: Public
-Initial Commit: README.md with "Learning Python and AI Engineering - Nov 2025 to May 2027"
-Second Commit: Added "- Started on November 15, 2025"
-Local Path: ~/Desktop/projects/python-learning
-Git Version: Verified via git --version (installed with Python)
-Proof: repo_proof.png (screenshot of repo page with commits)
+Key Learnings:
+- Functions for clean code (celsius_to_fahrenheit, fahrenheit_to_celsius)
+- while True loop for continuous input
+- try/except for input validation
+- .strip().upper() for robust user input
+- f-strings for formatted output
+- Git workflow: add → commit → push
 
-Setup complete. Ready for daily commits.
+Script: temperature_converter.py (48 lines)
+Proof: converter_proof.png
