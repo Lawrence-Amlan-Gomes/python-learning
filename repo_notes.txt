@@ -1,0 +1,13 @@
+=== GITHUB REPOSITORY SETUP ===
+Date: November 15, 2025
+Time: 11:42 AM (+06, BD)
+Username: lawrencealangomes
+Repository: https://github.com/lawrencealangomes/python-learning
+Visibility: Public
+Initial Commit: README.md with "Learning Python and AI Engineering - Nov 2025 to May 2027"
+Second Commit: Added "- Started on November 15, 2025"
+Local Path: ~/Desktop/projects/python-learning
+Git Version: Verified via git --version (installed with Python)
+Proof: repo_proof.png (screenshot of repo page with commits)
+
+Setup complete. Ready for daily commits.
