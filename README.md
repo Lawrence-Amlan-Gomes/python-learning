@@ -1,3 +1,8 @@
-# Python Learning Journey
-Learning Python and AI Engineering - Nov 2025 to May 2027
-- Started on November 15, 2025
+## Day 1: Temperature Converter CLI
+**Description**: A simple command-line tool for converting between Celsius and Fahrenheit.  
+**Features**:  
+- Supports C→F and F→C  
+- Input validation and error handling  
+- Continuous loop with 'Q' to quit  
+**Run**: `python3 temperature_converter.py`  
+**Proof**: See `converter_proof.png`
